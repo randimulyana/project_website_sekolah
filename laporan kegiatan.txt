@@ -1,0 +1,7 @@
+=> laporan #1
+
+[
+ mendownload template sb admin di website resmi
+ menyesuaikan dengan keperluan project websekolah atau memodifikasinya table yang sangat dibutuhkan dalam sistem
+ membuat repository di GitHub dan memmindahkan project di computer ke repository github
+];
