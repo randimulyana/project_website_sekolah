@@ -5,3 +5,10 @@
  menyesuaikan dengan keperluan project websekolah atau memodifikasinya table yang sangat dibutuhkan dalam sistem
  membuat repository di GitHub dan memmindahkan project di computer ke repository github
 ];
+
+=> Laporan #2
+
+[
+  membuat layout agar halaman tidak diulang ulang pada file yang berbeda sehingga hanya dilakukan pemanggilan file saja
+  membuat koneksi ke database dan membuat tabel di database yaitu tabel siswa pada project hari ini
+];
